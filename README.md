@@ -24,9 +24,9 @@ I'm so grateful you've taken the time to visit my profile. As a ☁️ Cloud Eng
  # 🏆 Certifications:
 
 - AWS Certified Solutions Architect - Associate
+- Azure Fundamentals (in progress)
 - CompTIA Linux+
 - CompTIA Security+ (in progress)
-- Azure Fundamentals (in progress)
 
 
 # 📊 GitHub Stats:
