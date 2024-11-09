@@ -70,7 +70,7 @@ Projects that involve monitoring and maintaining infrastructure, including hardw
 
 - **Log File Analysis with Python**  
   Description: Python script for parsing and analyzing server log files to detect anomalies.  
-  [Link to Project Folder]
+  [Log File Analysis with Python](https://github.com/ningineer/Log_File_Analysis_with_Python)
 
 
 
