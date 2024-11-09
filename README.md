@@ -9,7 +9,7 @@ I'm so grateful you've taken the time to visit my profile. As a ☁️ Cloud Eng
 📖 Currently pursuing a Bachelor's and Master's degree in Information Technology through the [Accelerated Degree Program](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html) at Western Governors University (WGU).<br/>
 
 ## ☁️ IT Solutions and Engineering Projects 🛠️
-I have worked on a variety of IT projects, ranging from cloud engineering to network security. To explore my detailed projects and the skills I have developed, check out the [Projects Page](./IT-Projects.md).
+I have worked on a variety of IT projects, ranging from cloud engineering to network security. To explore my detailed projects and the skills I have developed, check out the [IT-Projects Page](./IT-Projects.md).
  
  ## 🏆 Certifications
 
