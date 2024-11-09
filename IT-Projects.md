@@ -11,7 +11,7 @@ Welcome to my portfolio of IT projects! This repository contains various project
 
 ---
 
-### Cloud Engineering
+## Cloud Engineering
 Projects that focus on cloud infrastructure management, cloud security, and cloud-based solutions.
 
 - **Cloud Automation with AWS Lambda**  
@@ -24,7 +24,7 @@ Projects that focus on cloud infrastructure management, cloud security, and clou
 
 ---
 
-### Network Security
+## Network Security
 Projects that deal with network security, vulnerability assessments, and infrastructure audits.
 
 - **Nmap Network Mapping & Audit**  
@@ -33,7 +33,7 @@ Projects that deal with network security, vulnerability assessments, and infrast
 
 ---
 
-### Scripting & Automation
+## Scripting & Automation
 Projects focused on automating tasks and processes using Python and other scripting languages.
 
 - **Automated Log Parsing and Analysis**  
@@ -42,7 +42,7 @@ Projects focused on automating tasks and processes using Python and other script
 
 ---
 
-### Infrastructure Monitoring
+## Infrastructure Monitoring
 Projects that involve monitoring and maintaining infrastructure, including hardware and software systems.
 
 - **Real-Time Server Monitoring with Python**  
@@ -51,7 +51,7 @@ Projects that involve monitoring and maintaining infrastructure, including hardw
 
 ---
 
-### Python Projects
+## Pythoneering Projects
 - **Keylogger Script**  
   Description: A Python script that logs keystrokes for auditing purposes.  
   [KeyLogger Project](https://github.com/ningineer/Keylogger_Project)
