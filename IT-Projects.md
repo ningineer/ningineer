@@ -7,7 +7,7 @@ Welcome to my portfolio of IT projects! This repository contains various project
 2. [Network Security](#network-security)
 3. [Scripting & Automation](#scripting-automation)
 4. [Infrastructure Monitoring](#infrastructure-monitoring)
-5. [Python Projects](#python-projects)
+5. [Pythoneering Projects](#python-projects)
 
 ---
 
