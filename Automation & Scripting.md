@@ -1,6 +1,8 @@
 ## Automation & Scripting
 Projects focused on automating tasks and processes using Python and other scripting languages.
 
+---
+
 **Basic:**
 
 - **Active Directory Bulk User Creation**
@@ -11,6 +13,8 @@ Projects focused on automating tasks and processes using Python and other script
   - Description: Python script for parsing and analyzing server log files to detect anomalies.  
   - [Log File Analysis with Python](https://github.com/ningineer/Log_File_Analysis_with_Python)
 
+---
+
 **Intermediate:**
 
 - **Automated Log Parsing and Analysis**  
@@ -20,6 +24,8 @@ Projects focused on automating tasks and processes using Python and other script
 - **Real-Time Server Monitoring with Python**  
   - Description: Automated server monitoring script using Python and Prometheus.
   - [Link to Project Folder]
+
+---
 
 **Advanced:**
 
