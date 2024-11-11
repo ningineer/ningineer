@@ -7,7 +7,6 @@ Welcome to my portfolio of IT projects! This repository contains various project
 2. [Network Security](#network-security)
 3. [Scripting & Automation](#scripting-automation)
 4. [Infrastructure Monitoring](#infrastructure-monitoring)
-5. [Pythoneering Projects](#pythoneering-projects)
 
 ---
 
@@ -20,6 +19,14 @@ Projects that focus on cloud infrastructure management, cloud security, and clou
 
 - **Cloud Security with AWS Security Hub**  
   - Description: Implemented security monitoring and compliance checks using AWS Security Hub.
+  - [Link to Project Folder]
+ 
+- **Cloud Deployment with Python & AWS SDK**
+  - Description: Utilized Python and the AWS SDK to automate cloud resource deployment, enabling scalable infrastructure management on AWS for various application needs.
+  - [Link to Project Folder]
+
+- **Machine Learning Model Deployment with Python**
+  - Description: Deployed machine learning models in cloud environments using Python, integrating services like AWS Sagemaker and Azure to scale predictions and analyze data effectively.
   - [Link to Project Folder]
 
 ---
@@ -35,6 +42,18 @@ Projects that deal with network security, vulnerability assessments, and infrast
   - Description: This project leverages Azure Sentinel to track failed RDP login attempts, enriches the data with geographic location information, and helps monitor and defend against potential brute force attacks on your system.
   - [AzureSentinel RDP GeoTracker](https://github.com/ningineer/AzureSentinel_RDP_GeoTracker)
 
+- **Keylogger Script**  
+  - Description: A Python script that logs keystrokes for auditing purposes.  
+  - [KeyLogger Project](https://github.com/ningineer/Keylogger_Project)
+ 
+- **JWipe (Disk Wiping Utility)**
+  - Description: Developed a utility to securely wipe disks, ensuring all data is irrecoverable by overwriting sectors with random data multiple times, adhering to data security standards.
+  - [Link to Project Folder]
+
+- **FIM (File Integrity Monitor)**
+  - Description: Developed a File Integrity Monitoring solution to detect unauthorized changes to critical files and directories, strengthening system security and monitoring for potential intrusions.
+  - [Link to Project Folder]
+
 ---
 
 ## Scripting & Automation
@@ -42,6 +61,18 @@ Projects focused on automating tasks and processes using Python and other script
 
 - **Automated Log Parsing and Analysis**  
   - Description: A script that automates log file analysis for security events.
+  - [Link to Project Folder]
+
+- **Log File Analysis with Python**  
+  - Description: Python script for parsing and analyzing server log files to detect anomalies.  
+  - [Log File Analysis with Python](https://github.com/ningineer/Log_File_Analysis_with_Python)
+
+- **Active Directory Bulk User Creation**
+  - Description: Automated the creation of multiple user accounts in Active Directory using PowerShell scripts, improving efficiency and reducing manual input errors in user management.
+  - [Link to Project Folder]
+ 
+- **Package Delivery Application (Data Structures and Algorithms Demo)**
+  - Description: Built a package delivery application that demonstrates various data structures and algorithms, showcasing optimization techniques for route planning and package sorting.
   - [Link to Project Folder]
 
 ---
@@ -52,41 +83,3 @@ Projects that involve monitoring and maintaining infrastructure, including hardw
 - **Real-Time Server Monitoring with Python**  
   - Description: Automated server monitoring script using Python and Prometheus.
   - [Link to Project Folder]
-
----
-
-## Pythoneering Projects
-- **Keylogger Script**  
-  Description: A Python script that logs keystrokes for auditing purposes.  
-  [KeyLogger Project](https://github.com/ningineer/Keylogger_Project)
-
-- **Automated Network Mapping with Nmap (Python)**  
-  Description: Python-based script for automating network discovery and audits using Nmap.  
-  [Link to Project Folder]
-
-- **Cloud Deployment with Python & AWS SDK**  
-  Description: Automates AWS resource provisioning using Python and the Boto3 SDK.  
-  [Link to Project Folder]
-
-- **Machine Learning Model Deployment with Python**  
-  Description: Deployed a machine learning model using Python.  
-  [Link to Project Folder]
-
-- **Log File Analysis with Python**  
-  Description: Python script for parsing and analyzing server log files to detect anomalies.  
-  [Log File Analysis with Python](https://github.com/ningineer/Log_File_Analysis_with_Python)
-
-
-
-## ☁️ Cloud & Cloud Security Projects 🛠️:
-
-- <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/ningineer/ActiveDirectoryLab)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [KeyLogger Project](https://github.com/ningineer/Keylogger_Project)
