@@ -31,6 +31,10 @@ Projects that deal with network security, vulnerability assessments, and infrast
   - Description: Python-based script for network mapping and security audits.
   - [Network Mapping and Security Audit](https://github.com/ningineer/Network_Mapping_and_Audit)
 
+- **Failed RDP Detection with GeoLocation and Azure Sentinel**  
+  - Description: This project leverages Azure Sentinel to track failed RDP login attempts, enriches the data with geographic location information, and helps monitor and defend against potential brute force attacks on your system.
+  - [AzureSentinel RDP GeoTracker](https://github.com/ningineer/AzureSentinel_RDP_GeoTracker)
+
 ---
 
 ## Scripting & Automation
