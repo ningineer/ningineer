@@ -16,7 +16,7 @@ I have worked on a variety of IT projects, ranging from cloud engineering to net
  3. [Automation & Scripting](https://github.com/ningineer/ningineer/blob/main/Automation%20%26%20Scripting.md)
  4. [Infrastructure Management & Monitoring](https://github.com/ningineer/ningineer/blob/main/Infrastructure%20Management%20%26%20Monitoring.md)
  5. [DevOps & Continuous Integration/Continuous Deployment](https://github.com/ningineer/ningineer/blob/main/DevOps.md)
- 6. [Threat Detection & Mitigation](./threat-detection-mitigation.md)
+ 6. [Threat Detection & Mitigation](https://github.com/ningineer/ningineer/blob/main/Threat%20Detection%20%26%20Mitigation.md)
  
  ## 🏆 Certifications
 
