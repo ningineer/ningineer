@@ -6,7 +6,7 @@ Welcome to my portfolio of IT projects! This repository contains various project
 1. [Cloud Solutions & Security](#cloud-solutions-security)
 2. [Network & System Security](#network-system-security)
 3. [Automation & Scripting](#automation-scripting)
-4. [Infrastructure Management & Monitoring](#infrastructure-managment-monitoring)
+4. [Infrastructure Management & Monitoring](#infrastructure-management-monitoring)
 5. [DevOps & Continuous Integration/Continuous Deployment](#devops-continuous-integration-continuous-deployment)
 6. [Threat Detection & Mitigation](#threat-detection-mitigation)
 
