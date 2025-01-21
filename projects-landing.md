@@ -1,4 +1,4 @@
-# 🚀 My Projects Portfolio
+# Comprehensive IT Projects Portfolio
 
 Welcome to my portfolio of IT projects! Here, you can explore a variety of solutions I’ve built across different domains, including Cloud Solutions & Security, Network & System Security, Automation & Scripting, and Governance, Risk, and Compliance (GRC). Each project is categorized by its specialty and skill level, offering a detailed view of my technical expertise and approach to solving real-world IT challenges. Feel free to browse through the sections that align with your interests or requirements.
 
