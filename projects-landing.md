@@ -21,4 +21,4 @@ Welcome to my portfolio of IT projects! Here, you can explore a variety of solut
 [Explore Threat Detection & Mitigation Projects](./threat-detection.md)
 
 ## 📜 Governance, Risk & Compliance (GRC)
-[Explore GRC Projects](./grc-projects.md)
+[Explore GRC Projects](./grc.md)
