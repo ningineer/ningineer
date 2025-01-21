@@ -10,6 +10,6 @@ To explore these projects by specialty, please visit my [IT Projects Landing Pag
 
 ![Ningineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningineer&show_icons=true&theme=tokyonight)
 
-## 📫 Contact & Connect
+## Contact & Connect
 - **LinkedIn:** [LinkedIn](https://linkedin.com/in/ryan-rubiaco)
 - **GitHub:** [GitHub](https://github.com/ningineer)
