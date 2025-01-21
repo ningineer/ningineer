@@ -7,3 +7,5 @@ Hi there! I'm so grateful you've taken the time to visit my profile. As a ☁️
 I have worked on a wide variety of IT projects, showcasing my skills in different domains, including cloud solutions, security, automation, infrastructure management, DevOps, and GRC (Governance, Risk, and Compliance).
 
 To explore these projects by specialty, please visit my [IT Projects Landing Page](./projects-landing.md). From there, you can explore detailed information on projects across various domains and skill levels.
+
+![Ningineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningineer&show_icons=true&theme=tokyonight)
