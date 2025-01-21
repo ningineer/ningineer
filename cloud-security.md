@@ -1,30 +1,52 @@
 # ☁️ Cloud Solutions & Security Projects
+In today's digital landscape, cloud computing plays a crucial role in optimizing IT infrastructure, enhancing scalability, and ensuring robust security. This domain focuses on designing, implementing, and securing cloud-based solutions that support business operations while adhering to industry best practices and compliance standards. The projects in this category range from foundational cloud deployments to advanced security implementations, addressing challenges such as identity and access management, data protection, and compliance frameworks.
 
-Explore my projects focused on cloud security, deployment, and automation.
-
----
-
-## 1. **Cloud Deployment with Python & AWS SDK**
-   - **Description**: Automated cloud deployment and resource management using Python and the AWS SDK.
-   - [Link to Project Folder](./cloud-deployment-python-aws-sdk.md)
+Explore the projects below to gain hands-on experience in cloud security and architecture.
 
 ---
 
-## 2. **Cloud Security with AWS Security Hub**
-   - **Description**: Implemented security monitoring and compliance checks using AWS Security Hub.
-   - [Link to Project Folder](./cloud-security-aws-security-hub.md)
+## 🟢 Beginner
+### 1. Basic AWS IAM Role Management
+- **Description:** Create and manage IAM roles, users, and policies in AWS to enforce access controls.
+- **Project Link:** [IAM Role Management](Project_Folder_Link_Here)
+
+### 2. Setting Up AWS CloudTrail for Logging
+- **Description:** Enable CloudTrail to monitor AWS account activity for security and compliance.
+- **Project Link:** [CloudTrail Logging](Project_Folder_Link_Here)
+
+### 3. Deploying an S3 Static Website with Basic Security Controls
+- **Description:** Host a static site on S3 while implementing bucket policies and encryption.
+- **Project Link:** [S3 Static Website](Project_Folder_Link_Here)
 
 ---
 
-## 3. **Serverless Security Automation with AWS Lambda**
-   - **Description**: Developed a serverless application using AWS Lambda to automate security tasks and threat detection.
-   - [Link to Project Folder](./serverless-security-automation-aws-lambda.md)
+## 🔵 Intermediate
+### 1. Deploying a Multi-Region S3 Backup Solution
+- **Description:** Implement cross-region replication for S3 storage to enhance disaster recovery.
+- **Project Link:** [Multi-Region S3 Backup](Project_Folder_Link_Here)
+
+### 2. Configuring AWS Security Hub & GuardDuty for Threat Monitoring
+- **Description:** Set up AWS-native security services to detect and analyze security threats.
+- **Project Link:** [AWS Security Hub & GuardDuty](Project_Folder_Link_Here)
+
+### 3. Building a Secure VPC with Public & Private Subnets
+- **Description:** Design and implement a VPC with proper network segmentation and security groups.
+- **Project Link:** [Secure VPC Setup](Project_Folder_Link_Here)
 
 ---
 
-## 4. **Automated Cloud Backup with AWS S3 and Lambda**
-   - **Description**: Built an automated cloud backup system using AWS S3 and Lambda functions to ensure data redundancy.
-   - [Link to Project Folder](./automated-cloud-backup-s3-lambda.md)
+## 🔴 Advanced
+### 1. Zero-Trust Security Model Implementation in AWS
+- **Description:** Apply zero-trust principles for identity and network security, enforcing least privilege access.
+- **Project Link:** [Zero-Trust Security](Project_Folder_Link_Here)
+
+### 2. Automating Threat Detection & Response with AWS Lambda & Security Services
+- **Description:** Use serverless automation to detect and respond to security threats dynamically.
+- **Project Link:** [Threat Detection Automation](Project_Folder_Link_Here)
+
+### 3. Implementing AWS Control Tower for Enterprise Governance & Security
+- **Description:** Deploy AWS Control Tower to manage multiple accounts securely while maintaining compliance.
+- **Project Link:** [AWS Control Tower Implementation](Project_Folder_Link_Here)
 
 ---
 
