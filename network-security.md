@@ -1,4 +1,4 @@
-# 🔒 Network & System Security
+# 🔒 Network & System Security Projects
 
 ## Introduction
 Network & System Security is a critical domain in IT, ensuring that infrastructure remains resilient against cyber threats. This domain covers essential topics such as firewall configuration, secure remote access, intrusion detection, system hardening, and advanced security practices like SIEM implementation and penetration testing. The projects in this section aim to develop skills in safeguarding networks, detecting vulnerabilities, and responding to security incidents effectively.
