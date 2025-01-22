@@ -1,24 +1,30 @@
-# Comprehensive IT Projects Portfolio
+# 🌍 IT Projects Portfolio
 
-Welcome to my portfolio of IT projects! Here, you can explore a variety of solutions I’ve built across different domains, including Cloud Solutions & Security, Network & System Security, Automation & Scripting, and Governance, Risk, and Compliance (GRC). Each project is categorized by its specialty and skill level, offering a detailed view of my technical expertise and approach to solving real-world IT challenges. Feel free to browse through the sections that align with your interests or requirements.
+Welcome to my portfolio of IT projects! Here, you can explore a variety of solutions I’ve built across different domains, including Cloud Solutions & Security, Network & System Security, Automation & Scripting, Infrastructure Management & Monitoring, DevOps & CI/CD Pieplines, Threat Detection & Mitigation, and Governance, Risk, and Compliance (GRC). Each project is categorized by its specialty and skill level, offering a detailed view of my technical expertise and approach to solving real-world IT challenges. Feel free to browse through the sections that align with your interests or requirements.
 
-## ☁️ Cloud Solutions & Security
-[Explore Cloud Security Projects](./cloud-security.md)
+---
 
-## 🔒 Network & System Security
-[Explore Network & System Security Projects](./network-security.md)
+## 1. ☁️ Cloud Solutions & Security
+  [Explore Cloud Security Projects](./cloud-security.md)
 
-## 🤖 Automation & Scripting
-[Explore Automation & Scripting Projects](./automation-scripting.md)
+## 2. 🔒 Network & System Security
+  [Explore Network & System Security Projects](./network-security.md)
 
-## 📊 Infrastructure Management & Monitoring
-[Explore Infrastructure & Monitoring Projects](./infrastructure-monitoring.md)
+## 3. 🤖 Automation & Scripting
+  [Explore Automation & Scripting Projects](./automation-scripting.md)
 
-## 🚀 DevOps & CI/CD Pipelines
-[Explore DevOps & CI/CD Projects](./devops-ci-cd.md)
+## 4. 📊 Infrastructure Management & Monitoring
+   [Explore Infrastructure & Monitoring Projects](./infrastructure-monitoring.md)
 
-## 🛡️ Threat Detection & Mitigation
-[Explore Threat Detection & Mitigation Projects](./threat-detection.md)
+## 5. 🚀 DevOps & CI/CD Pipelines
+  [Explore DevOps & CI/CD Projects](./devops-ci-cd.md)
 
-## 📜 Governance, Risk & Compliance (GRC)
-[Explore GRC Projects](./grc.md)
+## 6. 🛡️ Threat Detection & Mitigation
+  [Explore Threat Detection & Mitigation Projects](./threat-detection.md)
+
+## 7. 📜 Governance, Risk & Compliance (GRC)
+  [Explore GRC Projects](./grc.md)
+
+---
+
+Each project within these domains is designed to provide hands-on experience, practical knowledge, and industry-relevant skills. Explore the categories and build expertise across multiple IT disciplines.
