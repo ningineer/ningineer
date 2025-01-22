@@ -1,4 +1,4 @@
-# 🛡️ Governance, Risk, and Compliance (GRC) Projects
+# 📜 Governance, Risk, and Compliance (GRC) Projects
 
 Explore my projects focused on governance, risk management, and ensuring compliance with regulatory standards.
 
