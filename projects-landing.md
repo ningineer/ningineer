@@ -12,6 +12,8 @@ Welcome to my IT projects portfolio! This repository showcases various hands-on 
 
 Each project within these domains is designed to provide hands-on experience, practical knowledge, and industry-relevant skills. Below, you'll find the top 3 featured projects per domain. To view the full list of projects, visit the respective domain pages.
 
+---
+
 ## 🌐 Featured Projects
 
 ### 1. ☁️ **Cloud Security & Architecture**
