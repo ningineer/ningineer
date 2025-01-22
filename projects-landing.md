@@ -1,6 +1,6 @@
 # 🌍 IT Projects Portfolio
 
-Welcome to my portfolio of IT projects! Here, you can explore a variety of solutions I’ve built across different domains, including Cloud Solutions & Security, Network & System Security, Automation & Scripting, Infrastructure Management & Monitoring, DevOps & CI/CD Pieplines, Threat Detection & Mitigation, and Governance, Risk, and Compliance (GRC). Each project is categorized by its specialty and skill level, offering a detailed view of my technical expertise and approach to solving real-world IT challenges. Feel free to browse through the sections that align with your interests or requirements.
+Welcome to my IT projects portfolio! This repository showcases various hands-on projects spanning Cloud Solutions & Security, Network & System Security, Automation & Scripting, Infrastructure Management & Monitoring, DevOps & CI/CD Pieplines, Threat Detection & Mitigation, and Governance, Risk, and Compliance (GRC). Each project is categorized by its specialty and skill level, offering a detailed view of my technical expertise and approach to solving real-world IT challenges. Feel free to browse through the sections that align with your interests or requirements.
 
 ---
 
