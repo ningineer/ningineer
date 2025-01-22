@@ -4,11 +4,11 @@ Welcome to my IT projects portfolio! This repository showcases various hands-on 
 
 ---
 
-## 1. ☁️ Cloud Solutions
-  [Explore Cloud Solutions Projects](./cloud-solutions.md)
+## 1. ☁️ Cloud Security & Architecture
+  [Explore Cloud Security & Architecture Projects](./cloud-security.md)
 
-## 2. 🔒 Network Security
-  [Explore Network Security Projects](./network-security.md)
+## 2. 🔒 Network & System Security
+  [Explore Network & System Security Projects](./network-security.md)
 
 ## 3. 🤖 Automation & Scripting
   [Explore Automation & Scripting Projects](./automation-scripting.md)
