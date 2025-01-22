@@ -24,7 +24,7 @@ DevOps & CI/CD Pipelines streamline software development and deployment processe
 
 ---
 
-## 🟣 Intermediate
+## 🔵 Intermediate
 
 ### 4. Deploying Applications with Kubernetes  
 - **Description:** Set up a Kubernetes cluster and deploy containerized applications using YAML manifests.  
