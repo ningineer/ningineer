@@ -1,4 +1,4 @@
-# ☁️ Cloud Security Solutions Projects
+# ☁️ Cloud Solutions Projects
 In today's digital landscape, cloud computing plays a crucial role in optimizing IT infrastructure, enhancing scalability, and ensuring robust security. This domain focuses on designing, implementing, and securing cloud-based solutions that support business operations while adhering to industry best practices and compliance standards. The projects in this category range from foundational cloud deployments to advanced security implementations, addressing challenges such as identity and access management, data protection, and compliance frameworks.
 
 Explore the projects below to gain hands-on experience in cloud security and architecture.
