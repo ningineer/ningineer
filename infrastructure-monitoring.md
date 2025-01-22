@@ -1,4 +1,4 @@
-# Infrastructure Management & Monitoring
+# 📊 Infrastructure Management & Monitoring
 
 ## Introduction
 Infrastructure Management & Monitoring is critical for maintaining system health, performance, and availability. This domain focuses on configuring, maintaining, and monitoring IT infrastructure components such as servers, networks, and cloud resources. The projects in this section will help develop skills in system administration, performance monitoring, and proactive troubleshooting.
