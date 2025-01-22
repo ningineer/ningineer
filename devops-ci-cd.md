@@ -1,30 +1,64 @@
-# 🚀 DevOps & Continuous Integration/Continuous Deployment Projects
+# 🚀 DevOps & Continuous Integration/Continuous Deployment (CI/CD) Projects
 
-Explore my projects related to DevOps practices and CI/CD pipelines.
-
----
-
-## 1. **CI/CD Pipeline with Jenkins & Docker**
-   - **Description**: Set up a Jenkins-based CI/CD pipeline to automate code deployment using Docker containers.
-   - [Link to Project Folder](./ci-cd-pipeline-jenkins-docker.md)
+## Introduction
+DevOps & CI/CD Pipelines streamline software development and deployment processes, enabling rapid iterations and reliable releases. This domain covers automation, containerization, and continuous integration/delivery practices to enhance development workflows and system stability.
 
 ---
 
-## 2. **Automated Application Deployment with Kubernetes**
-   - **Description**: Used Kubernetes to automate the deployment, scaling, and management of containerized applications.
-   - [Link to Project Folder](./automated-application-deployment-kubernetes.md)
+## 🟢 Beginner
+
+### 1. Setting Up a Basic CI/CD Pipeline with GitHub Actions  
+- **Description:** Learn how to configure GitHub Actions to automate the build and deployment of a simple application.  
+- **Skills:** GitHub Actions, CI/CD, automation.  
+- **Project Link:** [CI/CD Pipeline with GitHub Actions](./projects/cicd_github_actions)  
+
+### 2. Dockerizing a Simple Web Application  
+- **Description:** Create a Docker container for a basic web application, making it portable and easy to deploy.  
+- **Skills:** Docker, containerization, web development.  
+- **Project Link:** [Dockerizing Web Application](./projects/docker_web_app)  
+
+### 3. Infrastructure as Code with Terraform Basics  
+- **Description:** Use Terraform to define and provision cloud resources automatically.  
+- **Skills:** Terraform, infrastructure automation, cloud provisioning.  
+- **Project Link:** [Terraform Basics](./projects/terraform_basics)  
 
 ---
 
-## 3. **Infrastructure as Code with Terraform & AWS**
-   - **Description**: Implemented Infrastructure as Code (IaC) using Terraform to provision AWS resources and manage configurations.
-   - [Link to Project Folder](./infrastructure-as-code-terraform-aws.md)
+## 🟣 Intermediate
+
+### 4. Deploying Applications with Kubernetes  
+- **Description:** Set up a Kubernetes cluster and deploy containerized applications using YAML manifests.  
+- **Skills:** Kubernetes, container orchestration, DevOps.  
+- **Project Link:** [Kubernetes Deployment](./projects/kubernetes_deployment)  
+
+### 5. Automating CI/CD with Jenkins Pipelines  
+- **Description:** Configure a Jenkins pipeline to automate code testing, building, and deployment.  
+- **Skills:** Jenkins, automation, CI/CD.  
+- **Project Link:** [Jenkins CI/CD Pipeline](./projects/jenkins_cicd)  
+
+### 6. Implementing GitOps with ArgoCD  
+- **Description:** Use ArgoCD to manage application deployments using Git repositories as the source of truth.  
+- **Skills:** ArgoCD, GitOps, Kubernetes.  
+- **Project Link:** [GitOps with ArgoCD](./projects/gitops_argocd)  
 
 ---
 
-## 4. **Dockerized Multi-Container Web Application with CI/CD Integration**
-   - **Description**: Dockerized a multi-container web application and integrated it into a CI/CD pipeline for continuous deployment.
-   - [Link to Project Folder](./dockerized-web-application-ci-cd.md)
+## 🔴 Advanced
+
+### 7. Building a Scalable Microservices Architecture  
+- **Description:** Design and implement a scalable microservices system using Kubernetes, Istio, and service discovery.  
+- **Skills:** Microservices, Kubernetes, Istio, DevOps.  
+- **Project Link:** [Microservices Architecture](./projects/microservices_architecture)  
+
+### 8. Advanced CI/CD with Spinnaker  
+- **Description:** Implement Spinnaker to manage complex software releases with automated approvals and rollback capabilities.  
+- **Skills:** Spinnaker, CI/CD, release management.  
+- **Project Link:** [Spinnaker CI/CD](./projects/spinnaker_cicd)  
+
+### 9. Secure DevOps Practices with HashiCorp Vault  
+- **Description:** Use HashiCorp Vault to manage secrets and sensitive data in a CI/CD pipeline.  
+- **Skills:** HashiCorp Vault, security, DevSecOps.  
+- **Project Link:** [Secure DevOps with Vault](./projects/secure_devops_vault)  
 
 ---
 
