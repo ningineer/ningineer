@@ -19,7 +19,7 @@ Each project within these domains is designed to provide hands-on experience, pr
 2. **[Deploying a Multi-Region S3 Backup Solution](Project_Link_Here)**
 3. **[Implementing AWS Control Tower for Enterprise Governance & Security](Project_Link_Here)**
 
-    [View All Cloud Security & Architecture Projects](Cloud_Security_Projects.md)
+    [View All Cloud Security & Architecture Projects](cloud-security.md)
 
 ### 2. 🔒 **Network & System Security**
 1. **[Implementing Network Segmentation for Security Enhancement](Project_Link_Here)**
