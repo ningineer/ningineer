@@ -15,51 +15,51 @@ Each project within these domains is designed to provide hands-on experience, pr
 ## 🌐 Featured Projects
 
 ### 1. ☁️ **Cloud Security & Architecture**
-1. **Zero-Trust Security Model Implementation in AWS**
-2. **Deploying a Multi-Region S3 Backup Solution**
-3. **Implementing AWS Control Tower for Enterprise Governance & Security**
+1. **[Zero-Trust Security Model Implementation in AWS](Project_Link_Here)**
+2. **[Deploying a Multi-Region S3 Backup Solution](Project_Link_Here)**
+3. **[Implementing AWS Control Tower for Enterprise Governance & Security](Project_Link_Here)**
 
     [View All Cloud Security & Architecture Projects](Cloud_Security_Projects.md)
 
 ### 2. 🔒 **Network & System Security**
-1. **Implementing Network Segmentation for Security Enhancement**
-2. **Configuring an Intrusion Detection System (IDS) with Suricata**
-3. **Automating Firewall Rule Audits with Python**
+1. **[Implementing Network Segmentation for Security Enhancement](Project_Link_Here)**
+2. **[Configuring an Intrusion Detection System (IDS) with Suricata](Project_Link_Here)**
+3. **[Automating Firewall Rule Audits with Python](Project_Link_Here)**
 
     [View All Network & System Security Projects](Network_Security_Projects.md)
 
 ### 3. 🤖 **Automation & Scripting**
-1. **Automated Compliance Auditing with PowerShell**
-2. **Developing a Self-Healing IT System with Python**
-3. **Infrastructure as Code (IaC) with Terraform**
+1. **[Automated Compliance Auditing with PowerShell](Project_Link_Here)**
+2. **[Developing a Self-Healing IT System with Python](Project_Link_Here)**
+3. **[Infrastructure as Code (IaC) with Terraform](Project_Link_Here)**
 
     [View All Automation & Scripting Projects](Automation_Scripting_Projects.md)
 
 ### 4. 📊 **Infrastructure Management & Monitoring**
-1. **Infrastructure Health Dashboard**
-2. **Automated Network Mapping with Nmap**
-3. **Real-Time Monitoring with Python**
+1. **[Infrastructure Health Dashboard](Project_Link_Here)**
+2. **[Automated Network Mapping with Nmap](Project_Link_Here)**
+3. **[Real-Time Monitoring with Python](Project_Link_Here)**
 
     [View All Infrastructure Management & Monitoring Projects](Infrastructure_Management_Projects.md)
 
 ### 5. 🚀 **DevOps & CI/CD Pipelines**
-1. **Building a CI/CD Pipeline with Jenkins & Docker**
-2. **Automating Infrastructure Provisioning with Ansible & Terraform**
-3. **Container Orchestration with Kubernetes**
+1. **[Building a CI/CD Pipeline with Jenkins & Docker](Project_Link_Here)**
+2. **[Automating Infrastructure Provisioning with Ansible & Terraform](Project_Link_Here)**
+3. **[Container Orchestration with Kubernetes](Project_Link_Here)**
 
     [View All DevOps & CI/CD Projects](DevOps_Projects.md)
 
 ### 6. 🛡️ **Threat Detection & Mitigation**
-1. **Automating Threat Intelligence Feeds with Python**
-2. **SIEM Implementation with Splunk for Security Monitoring**
-3. **Developing a Ransomware Detection & Response Strategy**
+1. **[Automating Threat Intelligence Feeds with Python](Project_Link_Here)**
+2. **[SIEM Implementation with Splunk for Security Monitoring](Project_Link_Here)**
+3. **[Developing a Ransomware Detection & Response Strategy](Project_Link_Here)**
 
     [View All Threat Detection & Mitigation Projects](Threat_Detection_Projects.md)
 
 ### 7. 📜 **Governance, Risk & Compliance (GRC)**
-1. **Developing an IT Risk Management Framework**
-2. **Conducting a Third-Party Vendor Risk Assessment**
-3. **Performing a Privacy Impact Assessment (PIA)**
+1. **[Developing an IT Risk Management Framework](Project_Link_Here)**
+2. **[Conducting a Third-Party Vendor Risk Assessment](Project_Link_Here)**
+3. **[Performing a Privacy Impact Assessment (PIA)](Project_Link_Here)**
 
     [View All GRC Projects](GRC_Projects.md)
 
