@@ -17,11 +17,11 @@ Each project within these domains is designed to provide hands-on experience, pr
 ## 🌐 Featured Projects
 
 ### 1. ☁️ **Cloud Security & Architecture**
-1. **[Zero-Trust Security Model](IT_Projects/Cloud_Security/README.md)**
-2. **[Deploying a Multi-Region S3 Backup Solution](Project_Link_Here)**
-3. **[Implementing AWS Control Tower for Enterprise Governance & Security](Project_Link_Here)**
+1. **[Zero-Trust Security Model](IT_Projects/Cloud_Security/Project1.md)**
+2. **[Multi-Region S3 Backup](IT_Projects/Cloud_Security/Project2.md)**
+3. **[AWS Control Tower for Enterprise Governance & Security](IT_Projects/Cloud_Security/Project3.md)**
 
-    [View All Cloud Security & Architecture Projects](cloud-security.md)
+    [View All Cloud Security Projects](IT_Projects/Cloud_Security/README.md)
 
 ### 2. 🔒 **Network & System Security**
 1. **[Implementing Network Segmentation for Security Enhancement](Project_Link_Here)**
