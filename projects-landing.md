@@ -28,7 +28,7 @@ Each project within these domains is designed to provide hands-on experience, pr
 2. **[Configuring an Intrusion Detection System (IDS) with Suricata](IT_Projects/Network_Security/Intrusion_Detection_Suricata.md)**
 3. **[Automating Firewall Rule Audits with Python](IT_Projects/Network_Security/Firewall_Rule_Audit.md)**
 
-    [View All Network & System Security Projects](network-security.md)
+    [View All Network Security Projects](IT_Projects/Network_Security/network-security.md)
 
 ### 3. 🤖 **Automation & Scripting**
 1. **[Automated Compliance Auditing with PowerShell](Project_Link_Here)**
