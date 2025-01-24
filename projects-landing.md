@@ -21,7 +21,7 @@ Each project within these domains is designed to provide hands-on experience, pr
 2. **[Multi-Region S3 Backup](IT_Projects/Cloud_Security/Multi-Region_S3_Backup.md)**
 3. **[AWS Control Tower for Enterprise Governance & Security](IT_Projects/Cloud_Security/AWS_Control_Tower.md)**
 
-    [View All Cloud Security Projects](IT_Projects/Cloud_Security/README.md)
+    [View All Cloud Security Projects](IT_Projects/Cloud_Security/cloud-security.md)
 
 ### 2. 🔒 **Network & System Security**
 1. **[Implementing Network Segmentation for Security Enhancement](IT_Projects/Network_Security/Network_Segmentation.md)**
