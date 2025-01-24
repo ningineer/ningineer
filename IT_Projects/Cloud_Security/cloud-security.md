@@ -27,7 +27,7 @@ Explore the projects below to gain hands-on experience in cloud security and arc
 ### 1. Deploying a Multi-Region S3 Backup Solution
 - **Description:** Implement cross-region replication for S3 storage to enhance disaster recovery.
 - **Skills:** S3, Disaster Recovery, Multi-Region Replication
-- **Project Link:** [Multi-Region S3 Backup](IT_Projects/Cloud_Security/Multi-Region_S3_Backup.md)
+- **Project Link:** [Multi-Region S3 Backup](./Multi-Region_S3_Backup.md)
 
 ### 2. Configuring AWS Security Hub & GuardDuty for Threat Monitoring
 - **Description:** Set up AWS-native security services to detect and analyze security threats.
