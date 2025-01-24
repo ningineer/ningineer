@@ -38,30 +38,30 @@ Each project within these domains is designed to provide hands-on experience, pr
     [View All Automation & Scripting Projects](IT_Projects/Automation/automation-scripting.md)
 
 ### 4. 📊 **Infrastructure Management & Monitoring**
-1. **[Infrastructure Health Dashboard](Project_Link_Here)**
-2. **[Automated Network Mapping with Nmap](Project_Link_Here)**
-3. **[Real-Time Monitoring with Python](Project_Link_Here)**
+1. **[Infrastructure Health Dashboard](IT_Projects/Infrastructure/Infrastructure_Health_Dashboard.md)**
+2. **[Automated Network Mapping with Nmap](IT_Projects/Infrastructure/Automated_Network_Mapping.md)**
+3. **[Real-Time Monitoring with Python](IT_Projects/Infrastructure/Real-Time_Monitoring.md)**
 
-    [View All Infrastructure Management & Monitoring Projects](infrastructure-monitoring.md)
+    [View All Infrastructure Management & Monitoring Projects](IT_Projects/Infrastructure/infrastructure-monitoring.md)
 
 ### 5. 🚀 **DevOps & CI/CD Pipelines**
-1. **[Building a CI/CD Pipeline with Jenkins & Docker](Project_Link_Here)**
-2. **[Automating Infrastructure Provisioning with Ansible & Terraform](Project_Link_Here)**
-3. **[Container Orchestration with Kubernetes](Project_Link_Here)**
+1. **[Building a CI/CD Pipeline with Jenkins & Docker](IT_Projects/)**
+2. **[Automating Infrastructure Provisioning with Ansible & Terraform](IT_Projects/)**
+3. **[Container Orchestration with Kubernetes](IT_Projects/)**
 
     [View All DevOps & CI/CD Projects](devops-ci-cd.md)
 
 ### 6. 🛡️ **Threat Detection & Mitigation**
-1. **[Automating Threat Intelligence Feeds with Python](Project_Link_Here)**
-2. **[SIEM Implementation with Splunk for Security Monitoring](Project_Link_Here)**
-3. **[Developing a Ransomware Detection & Response Strategy](Project_Link_Here)**
+1. **[Automating Threat Intelligence Feeds with Python](IT_Projects/)**
+2. **[SIEM Implementation with Splunk for Security Monitoring](IT_Projects/)**
+3. **[Developing a Ransomware Detection & Response Strategy](IT_Projects/)**
 
     [View All Threat Detection & Mitigation Projects](threat-detection.md)
 
 ### 7. 📜 **Governance, Risk & Compliance (GRC)**
-1. **[Developing an IT Risk Management Framework](Project_Link_Here)**
-2. **[Conducting a Third-Party Vendor Risk Assessment](Project_Link_Here)**
-3. **[Performing a Privacy Impact Assessment (PIA)](Project_Link_Here)**
+1. **[Developing an IT Risk Management Framework](IT_Projects/)**
+2. **[Conducting a Third-Party Vendor Risk Assessment](IT_Projects/)**
+3. **[Performing a Privacy Impact Assessment (PIA)](IT_Projects/)**
 
     [View All GRC Projects](grc.md)
 
