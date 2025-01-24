@@ -31,11 +31,11 @@ Each project within these domains is designed to provide hands-on experience, pr
     [View All Network Security Projects](IT_Projects/Network_Security/network-security.md)
 
 ### 3. 🤖 **Automation & Scripting**
-1. **[Automated Compliance Auditing with PowerShell](Project_Link_Here)**
-2. **[Developing a Self-Healing IT System with Python](Project_Link_Here)**
-3. **[Infrastructure as Code (IaC) with Terraform](Project_Link_Here)**
+1. **[Automated Compliance Auditing with PowerShell](IT_Projects/Automation/Compliance_Auditing_PowerShell.md)**
+2. **[Developing a Self-Healing IT System with Python](IT_Projects/Automation/Self-Healing_IT_System.md)**
+3. **[Infrastructure as Code (IaC) with Terraform](IT_Projects/Automation/Infrastructure_as_Code_Terraform.md)**
 
-    [View All Automation & Scripting Projects](automation-scripting.md)
+    [View All Automation & Scripting Projects](IT_Projects/Automation/automation-scripting.md)
 
 ### 4. 📊 **Infrastructure Management & Monitoring**
 1. **[Infrastructure Health Dashboard](Project_Link_Here)**
