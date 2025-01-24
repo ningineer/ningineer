@@ -24,9 +24,9 @@ Each project within these domains is designed to provide hands-on experience, pr
     [View All Cloud Security Projects](IT_Projects/Cloud_Security/README.md)
 
 ### 2. 🔒 **Network & System Security**
-1. **[Implementing Network Segmentation for Security Enhancement](Project_Link_Here)**
-2. **[Configuring an Intrusion Detection System (IDS) with Suricata](Project_Link_Here)**
-3. **[Automating Firewall Rule Audits with Python](Project_Link_Here)**
+1. **[Implementing Network Segmentation for Security Enhancement](IT_Projects/Network_Security/Network_Segmentation.md)**
+2. **[Configuring an Intrusion Detection System (IDS) with Suricata](IT_Projects/Network_Security/Intrusion_Detection_Suricata.md)**
+3. **[Automating Firewall Rule Audits with Python](IT_Projects/Network_Security/Firewall_Rule_Audit.md)**
 
     [View All Network & System Security Projects](network-security.md)
 
