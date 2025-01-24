@@ -17,7 +17,7 @@ Each project within these domains is designed to provide hands-on experience, pr
 ## 🌐 Featured Projects
 
 ### 1. ☁️ **Cloud Security & Architecture**
-1. **[Zero-Trust Security Model Implementation in AWS](Project_Link_Here)**
+1. **[Zero-Trust Security Model](IT_Projects/Cloud_Security/Project1.md)**
 2. **[Deploying a Multi-Region S3 Backup Solution](Project_Link_Here)**
 3. **[Implementing AWS Control Tower for Enterprise Governance & Security](Project_Link_Here)**
 
