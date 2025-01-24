@@ -45,7 +45,7 @@ Explore the projects below to gain hands-on experience in cloud security and arc
 ### 1. Zero-Trust Security Model Implementation in AWS
 - **Description:** Apply zero-trust principles for identity and network security, enforcing least privilege access.
 - **Skills:** Zero-Trust, Identity Security, AWS Security
-- **Project Link:** [Zero-Trust Security](Project_Folder_Link_Here)
+- **Project Link:** [Zero-Trust Security](./Zero_Trust_Security_Model.md)
 
 ### 2. Automating Threat Detection & Response with AWS Lambda & Security Services
 - **Description:** Use serverless automation to detect and respond to security threats dynamically.
