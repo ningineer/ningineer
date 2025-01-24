@@ -55,7 +55,7 @@ Explore the projects below to gain hands-on experience in cloud security and arc
 ### 3. Implementing AWS Control Tower for Enterprise Governance & Security
 - **Description:** Deploy AWS Control Tower to manage multiple accounts securely while maintaining compliance.
 - **Skills:** AWS Control Tower, Enterprise Security, Compliance
-- **Project Link:** [AWS Control Tower Implementation](Project_Folder_Link_Here)
+- **Project Link:** [AWS Control Tower Implementation](./AWS_Control_Tower.md)
 
 ---
 
