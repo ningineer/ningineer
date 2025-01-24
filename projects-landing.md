@@ -59,11 +59,11 @@ Each project within these domains is designed to provide hands-on experience, pr
     [View All Threat Detection & Mitigation Projects](IT_Projects/Threat_Detection/threat-detection.md)
 
 ### 7. 📜 **Governance, Risk & Compliance (GRC)**
-1. **[Developing an IT Risk Management Framework](IT_Projects/)**
-2. **[Conducting a Third-Party Vendor Risk Assessment](IT_Projects/)**
-3. **[Performing a Privacy Impact Assessment (PIA)](IT_Projects/)**
+1. **[Developing an IT Risk Management Framework](IT_Projects/GRC/IT_Risk_Management_Framework.md)**
+2. **[Conducting a Third-Party Vendor Risk Assessment](IT_Projects/GRC/Third-Party_Vendor_Risk_Assessment.md)**
+3. **[Performing a Privacy Impact Assessment (PIA)](IT_Projects/GRC/Privacy_Impact_Assessment.md)**
 
-    [View All GRC Projects](grc.md)
+    [View All GRC Projects](IT_Projects/GRC/grc.md)
 
 ---
 
