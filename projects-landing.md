@@ -47,7 +47,7 @@ Each project within these domains is designed to provide hands-on experience, pr
 ### 5. 🚀 **DevOps & CI/CD Pipelines**
 1. **[Building a CI/CD Pipeline with Jenkins & Docker](IT_Projects/DevOps/CI_CD_Pipeline_Jenkins_Docker.md)**
 2. **[Automating Infrastructure Provisioning with Ansible & Terraform](IT_Projects/DevOps/Infrastructure_Provisioning_Ansible_Terraform.md)**
-3. **[Container Orchestration with Kubernetes](IT_Projects/DevOps/Kurbernetes_Container_Orchestration.md)**
+3. **[Container Orchestration with Kubernetes](IT_Projects/DevOps/Kubernetes_Container_Orchestration.md)**
 
     [View All DevOps & CI/CD Projects](IT_Projects/DevOps/devops-ci-cd.md)
 
