@@ -52,11 +52,11 @@ Each project within these domains is designed to provide hands-on experience, pr
     [View All DevOps & CI/CD Projects](IT_Projects/DevOps/devops-ci-cd.md)
 
 ### 6. 🛡️ **Threat Detection & Mitigation**
-1. **[Automating Threat Intelligence Feeds with Python](IT_Projects/)**
-2. **[SIEM Implementation with Splunk for Security Monitoring](IT_Projects/)**
-3. **[Developing a Ransomware Detection & Response Strategy](IT_Projects/)**
+1. **[Automating Threat Intelligence Feeds with Python](IT_Projects/Threat_Detection/Threat_Intelligence_Automation.md)**
+2. **[SIEM Implementation with Splunk for Security Monitoring](IT_Projects/Threat_Detection/SIEM_Implementation_Splunk.md)**
+3. **[Developing a Ransomware Detection & Response Strategy](IT_Projects/Threat_Detection/Ransomware_Detection_Response.md)**
 
-    [View All Threat Detection & Mitigation Projects](threat-detection.md)
+    [View All Threat Detection & Mitigation Projects](IT_Projects/Threat_Detection/threat-detection.md)
 
 ### 7. 📜 **Governance, Risk & Compliance (GRC)**
 1. **[Developing an IT Risk Management Framework](IT_Projects/)**
