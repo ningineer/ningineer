@@ -1,16 +1,19 @@
 # Zero-Trust Security Model Implementation in AWS
 
-## Objective
-Implement a Zero-Trust Security Model within an AWS environment to enhance security posture by enforcing strict identity verification and least privilege access.
+## ⚠️ Disclaimer
+This project is intended solely for educational and security best practice purposes within authorized AWS environments. Unauthorized security testing or policy enforcement may lead to unintended consequences. Ensure you have permission before implementing these configurations in a production environment.
+
+## Project Overview
+- **Technology Used:** AWS IAM, AWS Security Hub, AWS GuardDuty, AWS WAF, AWS Systems Manager, AWS KMS
+- **Purpose:** Implement a Zero-Trust security model in AWS by enforcing strict identity verification, network segmentation, and continuous monitoring.
+- **Output:** A secure AWS environment following Zero-Trust principles with automated security policies and compliance enforcement.
 
 ## Prerequisites
 - AWS Account with administrative access
-- AWS Identity and Access Management (IAM) knowledge
-- Familiarity with AWS Security Tools (AWS WAF, AWS Shield, AWS IAM, AWS Organizations, AWS VPC, AWS Config)
-- Basic understanding of Zero-Trust principles
+- Knowledge of AWS Security Tools (AWS WAF, AWS Shield, AWS IAM, AWS Organizations, AWS VPC, AWS Config)
+- Understanding of Zero-Trust principles and best practices
 
-## Steps to Implement Zero-Trust in AWS
-
+## Setup and Implementation
 ### Step 1: Define and Enforce Identity-Based Access Control
 1. Implement **IAM least privilege access** using roles and policies.
 2. Use **IAM Identity Center (AWS SSO)** for centralized authentication.
@@ -54,10 +57,20 @@ Implement a Zero-Trust Security Model within an AWS environment to enhance secur
 - Perform **penetration testing** in AWS using AWS-approved testing methods.
 - Review **AWS Security Hub Findings** to ensure compliance with best practices.
 
+## Key Features
+- **Strict Identity Access Control:** Enforces IAM least privilege and MFA.
+- **Network Segmentation:** Uses VPC private subnets and security groups.
+- **Continuous Monitoring:** Implements GuardDuty, Security Hub, and CloudTrail.
+- **Automated Remediation:** Uses AWS Lambda and Config Rules to enforce policies.
+
+## Future Enhancements
+- Integrate **AWS Control Tower** for multi-account governance.
+- Implement **Zero-Trust Network Access (ZTNA)** using AWS PrivateLink.
+- Deploy **machine learning-based anomaly detection** with Amazon SageMaker.
+
 ## Conclusion
 By implementing Zero-Trust in AWS, organizations can significantly enhance their security posture, reducing the attack surface and ensuring continuous monitoring and compliance. This approach enforces strict access controls, network segmentation, real-time threat detection, and automated remediation to mitigate security risks effectively.
 
 ## References
 - AWS Security Best Practices: [AWS Security Documentation](https://docs.aws.amazon.com/security/)
 - AWS Zero-Trust Whitepaper: [AWS Zero Trust](https://aws.amazon.com/security/zero-trust/)
-
