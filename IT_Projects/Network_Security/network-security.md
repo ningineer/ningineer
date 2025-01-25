@@ -53,7 +53,7 @@ Network & System Security is a critical domain in IT, ensuring that infrastructu
 ### 2. Network Penetration Testing & Ethical Hacking  
 - **Description:** Conduct a penetration test on a network using tools like Nmap, Metasploit, and Wireshark to identify vulnerabilities and remediate them.  
 - **Skills:** Ethical hacking, vulnerability assessment, exploit mitigation.  
-- **Project Link:** [Network Penetration Testing & Ethical Hacking](Project_Folder_Link_Here)
+- **Project Link:** [Network Penetration Testing & Ethical Hacking](./Network_Penetration_Testing_and_EH.md)
 
 ### 3. Automated Incident Response with Python  
 - **Description:** Develop a Python-based automated incident response framework to detect and mitigate security threats.  
