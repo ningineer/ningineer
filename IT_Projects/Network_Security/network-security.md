@@ -24,7 +24,7 @@ Network & System Security is a critical domain in IT, ensuring that infrastructu
 ### 1. Intrusion Detection System (IDS) Deployment  
 - **Description:** Set up and configure an IDS (e.g., Snort, Suricata) to detect malicious activities on a network.  
 - **Skills:** Network monitoring, threat detection, log analysis.  
-- **Project Link:** [IDS Deployment](Project_Folder_Link_Here)
+- **Project Link:** [IDS Deployment](./Intrusion_Detection_Suricata.md)
 
 ### 2. Hardening Windows & Linux Servers  
 - **Description:** Apply security hardening techniques to Windows and Linux servers, including patch management, user access controls, and system monitoring.  
@@ -48,7 +48,7 @@ Network & System Security is a critical domain in IT, ensuring that infrastructu
 ### 1. SIEM Implementation & Log Analysis  
 - **Description:** Deploy a Security Information and Event Management (SIEM) system (e.g., Splunk, ELK Stack, Graylog) to collect and analyze security logs.  
 - **Skills:** Log aggregation, threat hunting, incident response.  
-- **Project Link:** [SIEM Implementation & Log Analysis](Project_Folder_Link_Here)
+- **Project Link:** [SIEM Implementation & Log Analysis](./SIEM_Log_Analysis.md)
 
 ### 2. Network Penetration Testing & Ethical Hacking  
 - **Description:** Conduct a penetration test on a network using tools like Nmap, Metasploit, and Wireshark to identify vulnerabilities and remediate them.  
